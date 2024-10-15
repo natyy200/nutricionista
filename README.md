@@ -1,4 +1,4 @@
 # nutricionista
-javascrpt iniciante
+javascript iniciante
 
 link: https://nutricionista-dun.vercel.app/
